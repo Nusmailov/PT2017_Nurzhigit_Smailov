@@ -10,12 +10,11 @@ namespace Solution1
     {
         public static void func(){
             string s = Console.ReadLine();
-            string[] p = s.Split();
-            int[] arr = new int[p.Length];
-            int sum=0;
-            for (int i = 0; i < p.Length; i++)
+            int[] arr = new int[s.Length];
+            int sum = 0;
+            for (int i = 0; i < s.Length; i++)
             {
-                arr[i] = int.Parse(p[i]);
+                arr[i] = s[i] - 48;
                 sum += arr[i];
             }
             Console.WriteLine(sum);
