@@ -13,12 +13,13 @@ namespace Solution3
         {
             body = new List<Point>();
             body.Add(new Point(10, 10));
+            for (int i = 0; i < 5; i++)
+            {
+                body[i].x = i;
+                body[i].y = i;
+            }
         }
         public int x, y;
-        public void getPerimeter(int x,int y)
-        {
-            int P = 2*(x + y);
-        }
         public override string ToString()
         {
             return x + " " + y;

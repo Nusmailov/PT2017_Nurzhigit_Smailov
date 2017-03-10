@@ -21,11 +21,15 @@ namespace Solution3
             }
             Polygon b = new Polygon();
 
-            /*for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 5; i++)
             {
-                Console.WriteLine(body[i].x, body[i].y);
-            }*/
+                Console.WriteLine(b[i].x, body[i].y);
+            }
             Console.ReadKey();
+        }
+        public void getPerimeter(int x, int y)
+        {
+            int P = 2 * (x + y);
         }
     }
 }
