@@ -1,0 +1,5 @@
+c:\users\nurzhigit\documents\visual studio 2013\Projects\Solution2\Solution2\bin\Debug\Solution2.exe.config
+c:\users\nurzhigit\documents\visual studio 2013\Projects\Solution2\Solution2\bin\Debug\Solution2.exe
+c:\users\nurzhigit\documents\visual studio 2013\Projects\Solution2\Solution2\bin\Debug\Solution2.pdb
+c:\users\nurzhigit\documents\visual studio 2013\Projects\Solution2\Solution2\obj\Debug\Solution2.exe
+c:\users\nurzhigit\documents\visual studio 2013\Projects\Solution2\Solution2\obj\Debug\Solution2.pdb
